@@ -1,17 +1,17 @@
-export default function Square() {
+export default function Board() {
   return(
     <>
-    <div class="row">
+    <div class="board-row">
     <button className="square">X</button>
     <button className="square">X</button>
     <button className="square">X</button>
     </div>
-    <div class="row">
+    <div class="board-row">
     <button className="square">X</button>
     <button className="square">X</button>
     <button className="square">X</button>
     </div>
-    <div class="row">
+    <div class="board-row">
     <button className="square">X</button>
     <button className="square">X</button>
     <button className="square">X</button>
